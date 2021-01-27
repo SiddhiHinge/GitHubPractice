@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 309E-D7EC
+
+ Directory of E:\Siddhi\ZENSAR\GithubPractice
+
+01/27/2021  12:17 PM    <DIR>          .
+01/27/2021  12:17 PM    <DIR>          ..
+01/27/2021  12:17 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  174,402,867,200 bytes free
